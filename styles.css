@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(221, 198, 243);
+}
+#menu {
+  width: 1000px 
+  height: 30px;
+  align-items: center;
+  margin: 0 auto;
+  align-content: center;
+  }
+  h1 {
+    text-align: center;
+  }
+#menu ul li {
+  text-align: center;
+  list-style: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 40%;
+  border: 10px black;
+  background-color: rgb(203, 158, 245);
+  display: block;
+  line-height: 60px;
+  padding: 0% 16px;
+  border: 1px solid black;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  color: black;
+}
+a:link {
+  color: black;
+}
+a:hover {
+  background-color: rgb(159, 74, 240);
+}
